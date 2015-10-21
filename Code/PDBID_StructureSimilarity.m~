@@ -1,0 +1,16 @@
+function SimScore = PDBID_StructureSimilarity(s1, s2)
+%% if s1 == s2 
+% SimScore = 1 
+
+%first, split the s1 and s2 into pdb ids 
+slist1 = AttrStringParse(s1); 
+slist2 = AttrStringParse(s2); 
+
+SimScore = Score; 
+
+l1 = length(slist1);
+l2 = length(slist2); 
+
+for i = 
+
+%

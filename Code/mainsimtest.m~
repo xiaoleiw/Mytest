@@ -1,0 +1,13 @@
+function mainsimtest() 
+
+N = 10; 
+% the max number of test cases running. 
+
+%% similiarity  main function test 
+load SCross_Keywords.mat
+%size(S.Sequence)
+% ans =
+% 
+%        35660           1
+% 
+
